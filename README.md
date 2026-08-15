@@ -146,15 +146,15 @@ My personal portfolio website showcasing my skills, projects, services, and deve
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/d-h-sadeepa-dilshan-de-silva-77258533a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://codeinfinite-2001.github.io/Personal-PortFolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 
-  <a href="YOUR_EMAIL">
+  <a href="mailto:dilshandesilvasadeepa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
