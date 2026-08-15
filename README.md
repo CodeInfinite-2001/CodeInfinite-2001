@@ -150,7 +150,7 @@ My personal portfolio website showcasing my skills, projects, services, and deve
 
 <p align="left">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://www.linkedin.com/in/d-h-sadeepa-dilshan-de-silva-77258533a"/>
   </a>
 
   <a href="YOUR_PORTFOLIO_URL">
