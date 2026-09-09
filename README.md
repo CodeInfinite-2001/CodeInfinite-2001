@@ -105,6 +105,13 @@ An interactive web design project created using HTML, CSS, and JavaScript with a
 
 ---
 
+🌾 Agricultural Management System
+A management system developed to help organize and manage agricultural activities, farmer information, and related data efficiently.
+
+Technologies: C++ • SQL • Database Management
+
+---
+
 ### 🎨 English Learning App UI/UX
 
 A mobile application interface designed using **Figma**, focusing on creating a simple, attractive, and user-friendly learning experience.
