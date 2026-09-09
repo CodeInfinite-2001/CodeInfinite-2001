@@ -121,15 +121,7 @@ My personal portfolio website showcasing my skills, projects, services, and deve
 
 ---
 
-## 📊 GitHub Statistics
 
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
 
 ## 🎯 Current Goals
 
