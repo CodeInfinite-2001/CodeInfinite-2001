@@ -79,15 +79,7 @@ I'm currently focusing on becoming a **Full Stack Developer**, especially with t
 
 ---
 
-## 🚀 Featured Projects
 
-### 🛒 RetailPro – Smart POS System
-
-A cross-platform desktop Point of Sale system developed using **Electron.js and Node.js** for managing retail sales and business operations.
-
-**Technologies:** Electron.js • Node.js • JavaScript
-
----
 
 ### 📱 Binance PnL Calculator
 
@@ -105,7 +97,7 @@ An interactive web design project created using HTML, CSS, and JavaScript with a
 
 ---
 
-###🌾 Agricultural Management System
+### 🌾 Agricultural Management System
 
 A management system developed to help organize and manage agricultural activities, farmer information, and related data efficiently.
 
