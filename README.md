@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sadeepa Dilshan
 
-### 🚀 IT Undergraduate | Full Stack Developer | UI/UX Designer | Network Technology Enthusiast
+### 🚀 IT Undergraduate | Full Stack Developer | UI/UX Designer 
 
 I'm an IT undergraduate passionate about building modern web applications, designing user-friendly interfaces, and exploring network technologies.
 
