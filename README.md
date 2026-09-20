@@ -80,6 +80,12 @@ I'm currently focusing on becoming a **Full Stack Developer**, especially with t
 ---
 
 
+### 🛒 E-Commerce Checkout & Payment System
+A full-stack e-commerce solution built with React, Node.js, and Express, featuring cart management, checkout, stock reservation, order processing, and payment simulation.
+
+**Technologes:** React + Vite • Node.js + Express.js • MongoDB • JWT Authentication • Payment Simulation • REST API
+
+---
 
 ### 📱 Binance PnL Calculator
 
