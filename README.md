@@ -83,7 +83,9 @@ I'm currently focusing on becoming a **Full Stack Developer**, especially with t
 A full-stack POS system built with React, Vite, Tailwind CSS, Node.js, Express.js, and MongoDB, featuring inventory management, order processing, stock reservations, role-based authentication, and payment simulation.
 
 **Technologies:** React + Vite • Tailwind CSS • Node.js + Express.js • MongoDB • Role-Based Authentication • Jest Testing • Docker • Render Deployment
+
 ---
+
 ### 🛒 E-Commerce Checkout & Payment System
 A full-stack e-commerce solution built with React, Node.js, and Express, featuring cart management, checkout, stock reservation, order processing, and payment simulation.
 
